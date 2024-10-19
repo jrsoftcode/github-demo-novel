@@ -31,3 +31,5 @@ Historial y Deshacer Cambios:
 Git mantiene un historial completo de todas las modificaciones realizadas
  en el proyecto, lo que permite regresar a versiones anteriores si es necesario.
   También permite revertir cambios no deseados con facilidad.
+
+  algo nuevo de este lado
